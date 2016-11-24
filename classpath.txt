@@ -1,0 +1,5 @@
+SET PATH=%PATH%;C:\Program Files\Java\jdk1.8.0_111\bin
+
+PATH is an environment variable, which contains the location of executable or commands. When you type a command in command prompt, Operating System like Windows 7 or Windows 8, looks PATH  to find and execute that command. 
+
+Read more: http://javarevisited.blogspot.com/2013/02/windows-8-set-path-and-classpath-java-windows-7.html#ixzz4Qu191VIq
